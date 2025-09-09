@@ -1,3 +1,5 @@
+# Original Source: https://github.com/blaz-r/pi_pico_neopixel/blob/main/neopixel.py
+
 import array, time
 from machine import Pin
 import rp2

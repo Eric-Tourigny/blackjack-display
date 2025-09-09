@@ -1,3 +1,5 @@
+# Original source: https://github.com/T-622/RPI-PICO-I2C-LCD/blob/main/lcd_api.py
+
 import time
 
 class LcdApi:

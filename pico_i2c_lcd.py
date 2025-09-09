@@ -1,3 +1,5 @@
+# Original source: https://github.com/T-622/RPI-PICO-I2C-LCD/blob/main/pico_i2c_lcd.py
+
 import utime
 import gc
 
